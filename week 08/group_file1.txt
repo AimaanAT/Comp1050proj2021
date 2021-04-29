@@ -16,9 +16,12 @@ End Part 1
 
 Part 2
 
-<<Enter your name and the time here>>
-<<enter a paragraph here of about 5 - 10 lines>>
-
+Josh Uy
+I need to write 5 lines
+I need my 5 lines
+Five lines
+Five
+5
 End Part 2
 
 
