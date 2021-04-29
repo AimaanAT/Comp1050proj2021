@@ -7,8 +7,9 @@ There is a section below which has multiple parts. Each of you will be allocated
 
 Part 1
 
-<<Enter your name and the time here>>
-<<enter a paragraph here of about 5 - 10 lines>>
+
+Mark Mathew time 10:00
+This class is awesome I have friends learning new things. Making money 
 
 End Part 1
 
@@ -16,8 +17,8 @@ End Part 1
 
 Part 2
 
-<<Lohit Ram & 10:06am>>
-<< >>
+<<Enter your name and the time here>>
+<<enter a paragraph here of about 5 - 10 lines>>
 
 End Part 2
 
@@ -25,13 +26,8 @@ End Part 2
 
 Part 3
 
-<<Lohit Ram & 9:58am>>
-<<Driving a car is important for people in general because it provides status and the opportunity for personal control and autonomy. 
-  In sparsely populated areas, owning a car is even more important, 
-  since it provides the only opportunity for travelling long distances due to a lack of public transport.
-  Mitsubishi Motors is no longer planning any development of sedans, 
-  meaning replacements for core models such as the aged Lancer won’t materialise for years — 
-  if at all.>>
+<<Enter your name and the time here>>
+<<enter a paragraph here of about 5 - 10 lines>>
 
 End Part 3
 
